@@ -1,0 +1,20 @@
+REPORTE DE BUG - FARMACIAS SUPER ECONOMICA
+ID: BUG-001
+Titulo: Calculadora no muestra 0 al realizar 6 / 0
+Fecha: 25/03/2026 05:14
+Severidad: Alta
+Prioridad: Alta
+Reportado por: Peter Bazurto
+
+PASOS PARA REPRODUCIR:
+1. Abrir Calculadora Windows
+2. Ingresar 6
+3. Presionar /
+4. Ingresar 0
+5. Presionar =
+
+RESULTADO ESPERADO:
+El display debe mostrar 0
+
+RESULTADO OBTENIDO:
+Se muestra No se puede dividir entre cero
